@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Photo Click.iml" filepath="$PROJECT_DIR$/Photo Click.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ViewPagerIndicatorTutorial/ViewPagerIndicatorTutorial/ViewPagerIndicatorLibrary/ViewPagerIndicatorLibrary.iml" filepath="$PROJECT_DIR$/../ViewPagerIndicatorTutorial/ViewPagerIndicatorTutorial/ViewPagerIndicatorLibrary/ViewPagerIndicatorLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ViewPagerTransforms-master/ViewPagerTransformsLibrary/ViewPagerTransformsLibrary.iml" filepath="$PROJECT_DIR$/../ViewPagerTransforms-master/ViewPagerTransformsLibrary/ViewPagerTransformsLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../facebook-android-sdk-3.15.0/facebook/facebook1.iml" filepath="$PROJECT_DIR$/../facebook-android-sdk-3.15.0/facebook/facebook1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AndroidInstagram-master/library/library.iml" filepath="$PROJECT_DIR$/../AndroidInstagram-master/library/library.iml" />
+    </modules>
+  </component>
+</project>
+
